@@ -18,7 +18,7 @@ You can access this website by clicking this link in https://course-outline-mana
 
 ### Notable Design features 
 
-This game was created by a group, here are some features that I was specifically responsible for developing:
+This website was created by a group, here are some features that I was specifically responsible for developing:
  - Adding the API that allowed users to create and edit documents directly in the course management website
  - Connecting the website to a databse where old courseoutline documents are stored (mongodb was used as the database)
  - Connecting parts of the front end and the backend using REST API calls
